@@ -48,6 +48,7 @@ RUN apt-get update \
     git \
     gosu \
     perl \
+    gettext \
   # import tools
     bzip2 \
     libpq-dev \
